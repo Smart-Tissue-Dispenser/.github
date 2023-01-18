@@ -46,8 +46,8 @@ https://user-images.githubusercontent.com/85288381/212814167-3cb2ab3f-250d-41f1-
             </a>
         </td>
         <td align="center">
-            <a href="https://github.com/MinSeok0123">
-                <img alt="전수향" src="https://avatars.githubusercontent.com/MinSeok0123" width="100" />
+            <a href="https://github.com/soohyang136">
+                <img alt="전수향" src="https://avatars.githubusercontent.com/soohyang136" width="100" />
             </a>
          </td>
         <td>
@@ -61,6 +61,6 @@ https://user-images.githubusercontent.com/85288381/212814167-3cb2ab3f-250d-41f1-
         <td align="center">김민세</td>
         <td align="center">이민석</td>
         <td align="center">전수향</td>
-        <td align="center"></td>
+        <td align="center">서태영</td>
     </tr>
 </table>
