@@ -26,3 +26,39 @@ https://user-images.githubusercontent.com/85288381/212814167-3cb2ab3f-250d-41f1-
 [![Video Label](http://img.youtube.com/vi/q-NV_HC_r4k/0.jpg)](https://youtu.be/q-NV_HC_r4k)
 
 </div>
+***
+## made by
+<table>
+    <tr>
+        <td align="center">
+            <a href="https://github.com/DoHi0512">
+                <img alt="이동훈" src="https://avatars.githubusercontent.com/DoHi0512" width="100" />
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/kimminse3380">
+                <img alt="김민세" src="https://avatars.githubusercontent.com/kimminse3380" width="100" />
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/MinSeok0123">
+                <img alt="이민석" src="https://avatars.githubusercontent.com/MinSeok0123" width="100" />
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/MinSeok0123">
+                <img alt="전수향" src="https://avatars.githubusercontent.com/MinSeok0123" width="100" />
+            </a>
+            <a href="https://github.com/sty0507">
+                <img alt="서태영" src="https://avatars.githubusercontent.com/sty0507" width="100" />
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">이동훈</td>
+        <td align="center">김민세</td>
+        <td align="center">이민석</td>
+        <td align="center">전수향</td>
+        <td align="center"></td>
+    </tr>
+</table>
