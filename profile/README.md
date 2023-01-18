@@ -30,6 +30,7 @@ https://user-images.githubusercontent.com/85288381/212814167-3cb2ab3f-250d-41f1-
 ***
 
 ## made by
+<div align="center">
 <table>
     <tr>
         <td align="center">
@@ -72,3 +73,4 @@ https://user-images.githubusercontent.com/85288381/212814167-3cb2ab3f-250d-41f1-
         <td align="center">오동현</td>
     </tr>
 </table>
+</div>
