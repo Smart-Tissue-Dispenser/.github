@@ -49,6 +49,8 @@ https://user-images.githubusercontent.com/85288381/212814167-3cb2ab3f-250d-41f1-
             <a href="https://github.com/MinSeok0123">
                 <img alt="전수향" src="https://avatars.githubusercontent.com/MinSeok0123" width="100" />
             </a>
+         </td>
+        <td>
             <a href="https://github.com/sty0507">
                 <img alt="서태영" src="https://avatars.githubusercontent.com/sty0507" width="100" />
             </a>
