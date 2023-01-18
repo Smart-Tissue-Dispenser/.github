@@ -19,3 +19,5 @@ https://user-images.githubusercontent.com/85288381/212814167-3cb2ab3f-250d-41f1-
 - 여분의 휴지들을 자동으로 걸어주는 기능.
 - 보관하고 있는 여분의 휴지들이 모두 떨어졌을 때, 관리자에게 휴대폰으로 알려주는 기능.
 - 여분의 휴지가 몇개 남아있는지 알려주는 기능.
+## 결과
+[![Video Label](http://img.youtube.com/vi/q-NV_HC_r4k/0.jpg)](https://youtu.be/q-NV_HC_r4k)
