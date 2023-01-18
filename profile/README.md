@@ -69,6 +69,6 @@ https://user-images.githubusercontent.com/85288381/212814167-3cb2ab3f-250d-41f1-
         <td align="center">이민석</td>
         <td align="center">전수향</td>
         <td align="center">서태영</td>
-        <td align="center"></td>
+        <td align="center">오동현</td>
     </tr>
 </table>
