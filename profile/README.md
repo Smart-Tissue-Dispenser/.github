@@ -57,6 +57,11 @@ https://user-images.githubusercontent.com/85288381/212814167-3cb2ab3f-250d-41f1-
                 <img alt="서태영" src="https://avatars.githubusercontent.com/sty0507" width="100" />
             </a>
         </td>
+        <td>
+            <a href="https://github.com/DONGHAEY">
+                <img alt="오동현" src="https://avatars.githubusercontent.com/DONGHAEY" width="100" />
+            </a>
+        </td>
     </tr>
     <tr>
         <td align="center">이동훈</td>
@@ -64,5 +69,6 @@ https://user-images.githubusercontent.com/85288381/212814167-3cb2ab3f-250d-41f1-
         <td align="center">이민석</td>
         <td align="center">전수향</td>
         <td align="center">서태영</td>
+        <td align="center"></td>
     </tr>
 </table>
